@@ -208,7 +208,9 @@ __marimo__/
 
 # supporting repos
 AgentPoison/
+AgentPoison-old/
 Uncertainty-Aware-Language-Agent/
 
 # out-dated folder
 not-use/
+backup/
