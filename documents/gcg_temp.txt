@@ -1,0 +1,4 @@
+loss0 end with (23, 'mid', 2)
+loss1 end with (22, 'mid', 2)
+loss2 end with (65, 'mid', 1)
+loss3 end with (21, 'mid', 2)
